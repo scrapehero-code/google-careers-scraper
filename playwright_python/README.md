@@ -21,7 +21,7 @@ Step 5: Run the scraper code using
 
 <br>
 
->:bulb: ***To collect jobs listing data from Google Careers on scale and without code visit [Scrapehero Cloud](https://www.scrapehero.com/marketplace/google-careers-scraper/).***
+>:bulb: ***To collect jobs listing data from Google Careers on scale and without code visit [Google Careers Scraper](https://www.scrapehero.com/marketplace/google-careers-scraper/). by [Scrapehero Cloud](https://www.scrapehero.com/marketplace/)***
 
 <br>
 
