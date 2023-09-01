@@ -1,2 +1,4 @@
-# google-careers-scraper
-Gather job listing information such as Job Title, Company, Location, Job Description, and 10+ data points from the Google Careers listing page.
+# Google Careers Scraper
+Sample Code for Javascript and Python scrapers that extract Job listings data from the [Google Careers](https://careers.google.com/) for a particular search query.
+
+For more details refer: [How to Scrape Google Careers: Using Code and No Code Approaches](https://www.scrapehero.com/scrape-google-careers/)
